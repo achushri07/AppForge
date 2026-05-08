@@ -1,2 +1,2 @@
 # AI Platform Internship  
-You may find the file attached in this repository.
+You may find the necessary file attached to this repository.
